@@ -1,0 +1,16 @@
+{
+  "name": "tesseract-backend-npm-lib",
+  "version": "1.0.0",
+  "description": "little OCR test with tesseract library",
+  "main": "index.js",
+  "scripts": {
+    "test": "run test"
+  },
+  "author": "Daniel Parra",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "tesseract.js": "2.0.0-alpha.13"
+  }
+}
