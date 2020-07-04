@@ -2,7 +2,7 @@
 project designed to contain basic and functional implementations of the ocr libraries to have better references. 
 
 # elements to improve
-If you see any improve that can help others to define a better pipeline feel free to make a PR.
+If you see any improve that can help others to implement a OCR library successfully feel free to make a PR.
 
 # elements to consider
 If you have other basic implementation, feel free to add them in a PR, to help to increase this repo and a lot of developers.
